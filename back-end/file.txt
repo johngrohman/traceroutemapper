@@ -1,0 +1,16 @@
+ 1  10.110.7.1 (10.110.7.1)  2.189 ms  3.449 ms  1.786 ms
+ 2  64-251-131-33.fidnet.com (64.251.131.33)  3.731 ms  3.352 ms  2.824 ms
+ 3  snhlar-core1-bnd6.fidnet.com (216.229.73.72)  4.278 ms *  3.314 ms
+ 4  sllvmo-lcore1-bnd11.fidnet.com (216.229.73.144)  3.491 ms  3.424 ms  3.288 ms
+ 5  cubamo-sw01-vln1100.fidnet.com (216.229.73.20)  4.512 ms  3.704 ms  3.091 ms
+ 6  owvlmo-core1-bnd2.fidnet.com (216.229.74.47)  4.362 ms
+    grldmo-core1-bnd4.fidnet.com (216.229.74.49)  4.197 ms  3.925 ms
+ 7  nwhnmo-core1-bnd2.fidnet.com (216.229.74.50)  4.498 ms  5.099 ms
+    nwhnmo-core1-bnd3.fidnet.com (216.229.74.52)  4.412 ms
+ 8  stl-asr9010-bnd7.fidnet.com (216.229.74.54)  6.358 ms  6.158 ms  5.948 ms
+ 9  67-60-16-157.cpe.sparklight.net (67.60.16.157)  5.223 ms  6.798 ms  5.120 ms
+10  10.224.253.233 (10.224.253.233)  12.515 ms  23.682 ms  12.685 ms
+11  10.224.253.233 (10.224.253.233)  13.053 ms  12.601 ms  15.158 ms
+12  142.250.166.212 (142.250.166.212)  15.646 ms  12.632 ms  12.697 ms
+13  * * *
+14  dns.google (8.8.8.8)  22.346 ms  12.564 ms  12.593 ms

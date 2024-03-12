@@ -1,0 +1,296 @@
+{TypeError: Object of type GeoLocation is not JSON serializable
+https://ipapi.co/10.110.7.1/json/
+{
+    "ip": "10.110.7.1",
+    "error": true,
+    "reason": "Reserved IP Address",
+    "reserved": true,
+    "version": "IPv4"
+}
+Key Error: 'longitude' not found
+https://ipapi.co/64.251.131.33/json/
+{
+    "error": true,
+    "reason": "RateLimited",
+    "message": "Visit https://ipapi.co/ratelimited/ for details"
+}
+Key Error: 'ip' not found
+https://ipapi.co/216.229.73.72/json/
+{
+    "ip": "216.229.73.72",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/216.229.73.144/json/
+{
+    "error": true,
+    "reason": "RateLimited",
+    "message": "Visit https://ipapi.co/ratelimited/ for details"
+}
+Key Error: 'ip' not found
+https://ipapi.co/216.229.73.20/json/
+{
+    "ip": "216.229.73.20",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/216.229.74.49/json/
+{
+    "ip": "216.229.74.49",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/216.229.74.47/json/
+{
+    "ip": "216.229.74.47",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/216.229.74.50/json/
+{
+    "error": true,
+    "reason": "RateLimited",
+    "message": "Visit https://ipapi.co/ratelimited/ for details"
+}
+Key Error: 'ip' not found
+https://ipapi.co/216.229.74.52/json/
+{
+    "ip": "216.229.74.52",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/216.229.74.54/json/
+{
+    "ip": "216.229.74.54",
+    "network": "216.229.72.0/22",
+    "version": "IPv4",
+    "city": "Rolla",
+    "region": "Missouri",
+    "region_code": "MO",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "65401",
+    "latitude": 37.9475,
+    "longitude": -91.7636,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11976",
+    "org": "FIDN"
+}
+https://ipapi.co/67.60.16.157/json/
+{
+    "ip": "67.60.16.157",
+    "network": "67.60.16.0/24",
+    "version": "IPv4",
+    "city": "Chicago",
+    "region": "Illinois",
+    "region_code": "IL",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "60616",
+    "latitude": 41.8486,
+    "longitude": -87.6288,
+    "timezone": "America/Chicago",
+    "utc_offset": "-0600",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS11492",
+    "org": "CABLEONE"
+}
+https://ipapi.co/10.224.253.233/json/
+{
+    "ip": "10.224.253.233",
+    "error": true,
+    "reason": "Reserved IP Address",
+    "reserved": true,
+    "version": "IPv4"
+}
+Key Error: 'longitude' not found
+https://ipapi.co/10.224.253.233/json/
+{
+    "ip": "10.224.253.233",
+    "error": true,
+    "reason": "Reserved IP Address",
+    "reserved": true,
+    "version": "IPv4"
+}
+Key Error: 'longitude' not found
+https://ipapi.co/142.250.166.212/json/
+{
+    "ip": "142.250.166.212",
+    "network": "142.250.166.0/23",
+    "version": "IPv4",
+    "city": "Mountain View",
+    "region": "California",
+    "region_code": "CA",
+    "country": "US",
+    "country_name": "United States",
+    "country_code": "US",
+    "country_code_iso3": "USA",
+    "country_capital": "Washington",
+    "country_tld": ".us",
+    "continent_code": "NA",
+    "in_eu": false,
+    "postal": "94043",
+    "latitude": 37.4043,
+    "longitude": -122.0748,
+    "timezone": "America/Los_Angeles",
+    "utc_offset": "-0800",
+    "country_calling_code": "+1",
+    "currency": "USD",
+    "currency_name": "Dollar",
+    "languages": "en-US,es-US,haw,fr",
+    "country_area": 9629091.0,
+    "country_population": 327167434,
+    "asn": "AS15169",
+    "org": "GOOGLE"
+},
+"https://ipapi.co/8.8.8.8/json/":
+{
+    "error": true,
+    "reason": "RateLimited",
+    "message": "Visit https://ipapi.co/ratelimited/ for details"
+}
+}
