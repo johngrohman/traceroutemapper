@@ -15,7 +15,7 @@ export default function Map() {
     
       return (
         <div className='MapContainer'>
-          <ReactMapGl mapboxAccessToken={'pk.eyJ1Ijoiam9ncm9oIiwiYSI6ImNsc2t1c3p3aTAyZ20ya3MxdHZwNzNoOTkifQ.oc5gR8IfQbd4Ca5DN6PfOA'}
+          <ReactMapGl mapboxAccessToken={''}
           {...viewport}
           width="100%"
           height="100%"
