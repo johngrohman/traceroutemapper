@@ -1,16 +1,80 @@
- 1  10.110.7.1 (10.110.7.1)  2.189 ms  3.449 ms  1.786 ms
- 2  64-251-131-33.fidnet.com (64.251.131.33)  3.731 ms  3.352 ms  2.824 ms
- 3  snhlar-core1-bnd6.fidnet.com (216.229.73.72)  4.278 ms *  3.314 ms
- 4  sllvmo-lcore1-bnd11.fidnet.com (216.229.73.144)  3.491 ms  3.424 ms  3.288 ms
- 5  cubamo-sw01-vln1100.fidnet.com (216.229.73.20)  4.512 ms  3.704 ms  3.091 ms
- 6  owvlmo-core1-bnd2.fidnet.com (216.229.74.47)  4.362 ms
-    grldmo-core1-bnd4.fidnet.com (216.229.74.49)  4.197 ms  3.925 ms
- 7  nwhnmo-core1-bnd2.fidnet.com (216.229.74.50)  4.498 ms  5.099 ms
-    nwhnmo-core1-bnd3.fidnet.com (216.229.74.52)  4.412 ms
- 8  stl-asr9010-bnd7.fidnet.com (216.229.74.54)  6.358 ms  6.158 ms  5.948 ms
- 9  67-60-16-157.cpe.sparklight.net (67.60.16.157)  5.223 ms  6.798 ms  5.120 ms
-10  10.224.253.233 (10.224.253.233)  12.515 ms  23.682 ms  12.685 ms
-11  10.224.253.233 (10.224.253.233)  13.053 ms  12.601 ms  15.158 ms
-12  142.250.166.212 (142.250.166.212)  15.646 ms  12.632 ms  12.697 ms
-13  * * *
-14  dns.google (8.8.8.8)  22.346 ms  12.564 ms  12.593 ms
+ 1  devicedhcp.home (192.168.1.1)  11.138 ms  4.528 ms  4.185 ms
+ 2  sub1201.htc.net (216.114.120.1)  20.348 ms  20.623 ms  21.144 ms
+ 3  sub1201.htc.net (216.114.120.1)  18.165 ms  19.817 ms  20.508 ms
+ 4  216.114.113.142 (216.114.113.142)  14.036 ms  13.385 ms  15.379 ms
+ 5  sub113144.htc.net (216.114.113.144)  13.629 ms  14.583 ms  14.519 ms
+ 6  * * *
+ 7  be2349.ccr41.ord01.atlas.cogentco.com (154.54.80.181)  29.811 ms  22.266 ms  26.848 ms
+ 8  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  22.943 ms  22.887 ms  24.893 ms
+ 9  be-200-pe11.350ecermak.il.ibone.comcast.net (50.248.116.165)  24.462 ms  23.158 ms  22.936 ms
+10  * be-2411-cs24.350ecermak.il.ibone.comcast.net (96.110.33.205)  26.084 ms *
+11  be-1421-cr21.350ecermak.il.ibone.comcast.net (68.86.82.254)  43.960 ms
+    be-1321-cr21.350ecermak.il.ibone.comcast.net (68.86.82.250)  28.548 ms
+    be-1421-cr21.350ecermak.il.ibone.comcast.net (68.86.82.254)  24.909 ms
+12  be-303-cr11.1601milehigh.co.ibone.comcast.net (96.110.37.154)  45.584 ms
+    be-302-cr11.1601milehigh.co.ibone.comcast.net (96.110.37.150)  45.740 ms
+    be-301-cr11.1601milehigh.co.ibone.comcast.net (96.110.37.146)  49.043 ms
+13  be-1411-cs04.1601milehigh.co.ibone.comcast.net (96.110.39.77)  46.337 ms
+    be-1311-cs03.1601milehigh.co.ibone.comcast.net (96.110.39.73)  45.782 ms  45.792 ms
+14  be-1313-cr13.1601milehigh.co.ibone.comcast.net (96.110.39.106)  46.816 ms
+    be-1314-cr14.1601milehigh.co.ibone.comcast.net (96.110.39.122)  47.541 ms
+    be-1214-cr14.1601milehigh.co.ibone.comcast.net (96.110.39.118)  48.423 ms
+15  be-303-cr14.champa.co.ibone.comcast.net (96.110.39.9)  47.280 ms
+    be-302-cr13.champa.co.ibone.comcast.net (96.110.36.197)  46.888 ms
+    be-304-cr14.champa.co.ibone.comcast.net (96.110.39.13)  46.537 ms
+16  be-1414-cs04.champa.co.ibone.comcast.net (96.110.37.253)  47.682 ms
+    be-1313-cs03.champa.co.ibone.comcast.net (96.110.37.233)  47.767 ms
+    be-1314-cs03.champa.co.ibone.comcast.net (96.110.37.249)  46.476 ms
+17  be-1411-cr11.champa.co.ibone.comcast.net (96.110.37.206)  47.169 ms  46.749 ms
+    be-1211-cr11.champa.co.ibone.comcast.net (96.110.37.198)  45.777 ms
+18  be-301-cr11.seattle.wa.ibone.comcast.net (96.110.36.210)  80.359 ms  81.350 ms  80.833 ms
+19  be-1411-cs04.seattle.wa.ibone.comcast.net (96.110.47.213)  82.524 ms
+    be-1111-cs01.seattle.wa.ibone.comcast.net (96.110.47.177)  82.335 ms
+    be-1211-cs02.seattle.wa.ibone.comcast.net (96.110.47.189)  82.475 ms
+20  be-36121-arsc1.seattle.wa.seattle.comcast.net (68.86.93.6)  82.846 ms
+    be-36111-arsc1.seattle.wa.seattle.comcast.net (68.86.93.2)  84.035 ms
+    be-36141-arsc1.seattle.wa.seattle.comcast.net (68.86.93.14)  82.806 ms
+21  po-1-xar02.everett.wa.seattle.comcast.net (24.124.128.250)  82.176 ms  81.804 ms  81.010 ms
+22  po-1-rur302.everett.wa.seattle.comcast.net (69.139.160.246)  83.483 ms  84.355 ms  85.741 ms
+23  96.108.11.114 (96.108.11.114)  83.024 ms  82.457 ms  81.968 ms
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+31  * * *
+32  * * *
+33  * * *
+34  * * *
+35  * * *
+36  * * *
+37  * * *
+38  * * *
+39  * * *
+40  * * *
+41  * * *
+42  * * *
+43  * * *
+44  * * *
+45  * * *
+46  * * *
+47  * * *
+48  * * *
+49  * * *
+50  * * *
+51  * * *
+52  * * *
+53  * * *
+54  * * *
+55  * * *
+56  * * *
+57  * * *
+58  * * *
+59  * * *
+60  * * *
+61  * * *
+62  * * *
+63  * * *
+64  * * *

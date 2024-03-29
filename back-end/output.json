@@ -1,1 +1,224 @@
-{"Data": []}
+[
+    {
+        "ipaddress": "216.114.120.1",
+        "longitude": -90.1607,
+        "latitude": 38.3186,
+        "city": "Waterloo"
+    },
+    {
+        "ipaddress": "216.114.120.1",
+        "longitude": -90.1607,
+        "latitude": 38.3186,
+        "city": "Waterloo"
+    },
+    {
+        "ipaddress": "216.114.113.142",
+        "longitude": -90.1607,
+        "latitude": 38.3186,
+        "city": "Waterloo"
+    },
+    {
+        "ipaddress": "216.114.113.144",
+        "longitude": -90.1607,
+        "latitude": 38.3186,
+        "city": "Waterloo"
+    },
+    {
+        "ipaddress": "154.54.80.181",
+        "longitude": -77.0365,
+        "latitude": 38.894,
+        "city": "Washington"
+    },
+    {
+        "ipaddress": "154.54.45.18",
+        "longitude": -77.0365,
+        "latitude": 38.894,
+        "city": "Washington"
+    },
+    {
+        "ipaddress": "50.248.116.165",
+        "longitude": -84.258,
+        "latitude": 30.4274,
+        "city": "Tallahassee"
+    },
+    {
+        "ipaddress": "96.110.33.205",
+        "longitude": -118.2441,
+        "latitude": 34.0544,
+        "city": "Los Angeles"
+    },
+    {
+        "ipaddress": "68.86.82.254",
+        "longitude": -118.2441,
+        "latitude": 34.0544,
+        "city": "Los Angeles"
+    },
+    {
+        "ipaddress": "68.86.82.250",
+        "longitude": -118.2441,
+        "latitude": 34.0544,
+        "city": "Los Angeles"
+    },
+    {
+        "ipaddress": "68.86.82.254",
+        "longitude": -118.2441,
+        "latitude": 34.0544,
+        "city": "Los Angeles"
+    },
+    {
+        "ipaddress": "96.110.37.154",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.150",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.146",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.39.77",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.39.73",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.39.106",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.39.122",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.39.118",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.39.9",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.36.197",
+        "longitude": -74.1634,
+        "latitude": 40.738,
+        "city": "Newark"
+    },
+    {
+        "ipaddress": "96.110.39.13",
+        "longitude": -104.9868,
+        "latitude": 39.7388,
+        "city": "Denver"
+    },
+    {
+        "ipaddress": "96.110.37.253",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.233",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.249",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.206",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.37.198",
+        "longitude": -87.6318,
+        "latitude": 41.8874,
+        "city": "Chicago"
+    },
+    {
+        "ipaddress": "96.110.36.210",
+        "longitude": -74.1634,
+        "latitude": 40.738,
+        "city": "Newark"
+    },
+    {
+        "ipaddress": "96.110.47.213",
+        "longitude": -122.6684,
+        "latitude": 45.5242,
+        "city": "Portland"
+    },
+    {
+        "ipaddress": "96.110.47.177",
+        "longitude": -122.6684,
+        "latitude": 45.5242,
+        "city": "Portland"
+    },
+    {
+        "ipaddress": "96.110.47.189",
+        "longitude": -122.6684,
+        "latitude": 45.5242,
+        "city": "Portland"
+    },
+    {
+        "ipaddress": "68.86.93.6",
+        "longitude": -122.3414,
+        "latitude": 47.6034,
+        "city": "Seattle"
+    },
+    {
+        "ipaddress": "68.86.93.2",
+        "longitude": -122.3414,
+        "latitude": 47.6034,
+        "city": "Seattle"
+    },
+    {
+        "ipaddress": "68.86.93.14",
+        "longitude": -122.3414,
+        "latitude": 47.6034,
+        "city": "Seattle"
+    },
+    {
+        "ipaddress": "24.124.128.250",
+        "longitude": -122.3414,
+        "latitude": 47.6034,
+        "city": "Seattle"
+    },
+    {
+        "ipaddress": "69.139.160.246",
+        "longitude": -122.4421,
+        "latitude": 47.2565,
+        "city": "Tacoma"
+    },
+    {
+        "ipaddress": "96.108.11.114",
+        "longitude": -122.2031,
+        "latitude": 47.8948,
+        "city": "Everett"
+    }
+]

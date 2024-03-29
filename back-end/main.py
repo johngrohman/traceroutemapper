@@ -3,10 +3,10 @@ import json
 import os
 import io
 
-def main():
+def main(value):
 
     # Destination IP address
-    ipaddress = "8.8.8.8"
+    ipaddress = value
 
     ## Start tracerouting and output result to file.txt
     output = os.system(f'traceroute {ipaddress} > file.txt')
@@ -23,15 +23,21 @@ def main():
             continue
     
     # Get GeoLocations of the ip_list
+    print("getting locations")
     result = getloc.getLocations(ip_list)
 
+    # JSON object
+    print('here', dir(result[0]))
+    print('AGAIN', result[0].__dict__)
 
-    final = {"Data":[]}
-    for i in result:
-        final["Data"].append(json.dumps(i.__dict__))
+    final = [json.loads(json.dumps(i.__dict__, indent=4)) for i in result]
 
-    with io.open('output.txt', 'w') as f:
-        f.write(str(final))
-    
+    json_object = json.dumps(final, indent=4)
+
+    with open('output.json', 'w') as f:
+        f.write(json_object)
+        
+    return json_object
+
 if __name__ == "__main__":
     main()
