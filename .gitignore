@@ -22,3 +22,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.pyc
+back-end/venv/lib/python3.8/site-packages/urllib3/__pycache__/
