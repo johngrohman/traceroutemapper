@@ -1,0 +1,13 @@
+.Nav {
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 15%;
+    margin-left: auto;
+}
+
+.NavLink {
+    text-decoration: none;
+    color: black;
+}

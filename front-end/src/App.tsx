@@ -1,22 +1,39 @@
 import React from 'react';
-import Home from './pages/Home.tsx';
-import About from './pages/About.tsx';
-import NoPage from './pages/NoPage.tsx';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navigation from './components/Navigation/Navigation.tsx';
+import Home from './pages/home';
+import About from './pages/about';
+import ErrorPage from './pages/error';
+import { BrowserRouter } from 'react-router-dom';
+import Navigation from './components/navigation';
 import './App.scss';
+import { Routes, Route } from 'react-router-dom';
+
+// const router = createBrowserRouter([
+//     {
+//         path: '',
+//         element: <Home />,
+//         errorElement: <ErrorPage />,
+//     },
+//     {
+//         path: '/about',
+//         element: <About />
+//     },
+//     {
+//         path: '*',
+//         element: <ErrorPage />
+//     }
+// ])
 
 export default function App() {
-  return (
-    <div className='App'>
-      <Navigation />
-      <BrowserRouter>
-        <Routes>
-          <Route index element={<Home />} />
-          <Route path="About" element={<About />} />
-          <Route path="*" element={<NoPage />} />
-        </Routes>
-      </BrowserRouter>
-    </div>
-  );
+    return (
+        <div className='app'>
+            <BrowserRouter>
+                <Navigation />
+                <Routes>
+                    <Route index path='/' element={<Home />} />
+                    <Route path='/About' element={<About />} />
+                    <Route path='*' element={<ErrorPage />} />
+                </Routes>
+            </BrowserRouter>
+        </div>
+    );
 }

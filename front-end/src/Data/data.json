@@ -1,112 +1,110 @@
-{
-  [
-    {
-      "ipaddress": "216.114.120.1",
-      "longitude": -90.1607,
-      "latitude": 38.3186,
-      "city": "Waterloo"
-    },
-    {
-      "ipaddress": "216.114.120.1",
-      "longitude": -90.1607,
-      "latitude": 38.3186,
-      "city": "Waterloo"
-    },
-    {
-      "ipaddress": "216.114.113.142",
-      "longitude": -90.1607,
-      "latitude": 38.3186,
-      "city": "Waterloo"
-    },
-    {
-      "ipaddress": "216.114.113.144",
-      "longitude": -90.1607,
-      "latitude": 38.3186,
-      "city": "Waterloo"
-    },
-    {
-      "ipaddress": "154.54.80.173",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.80.121",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.3.213",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.3.133",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.28.74",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.47.214",
-      "longitude": -77.0365,
-      "latitude": 38.894,
-      "city": "Washington"
-    },
-    {
-      "ipaddress": "154.54.12.106",
-      "longitude": -96.8022,
-      "latitude": 32.7797,
-      "city": "Dallas"
-    },
-    {
-      "ipaddress": "74.125.50.198",
-      "longitude": -122.0748,
-      "latitude": 37.4043,
-      "city": "Mountain View"
-    },
-    {
-      "ipaddress": "216.239.56.139",
-      "longitude": -122.0748,
-      "latitude": 37.4043,
-      "city": "Mountain View"
-    },
-    {
-      "ipaddress": "172.253.73.17",
-      "longitude": -122.0748,
-      "latitude": 37.4043,
-      "city": "Mountain View"
-    },
-    {
-      "ipaddress": "72.14.237.47",
-      "longitude": -122.0748,
-      "latitude": 37.4043,
-      "city": "Mountain View"
-    },
-    {
-      "ipaddress": "142.251.60.137",
-      "longitude": -73.839,
-      "latitude": 40.66,
-      "city": "Queens"
-    },
-    {
-      "ipaddress": "142.251.60.45",
-      "longitude": -73.839,
-      "latitude": 40.66,
-      "city": "Queens"
-    },
-    {
-      "ipaddress": "8.8.8.8",
-      "longitude": -122.083352,
-      "latitude": 37.42301,
-      "city": "Mountain View"
-    }
-  ]
-}
+[
+  {
+    "ipaddress": "216.114.120.1",
+    "longitude": -90.1607,
+    "latitude": 38.3186,
+    "city": "Waterloo"
+  },
+  {
+    "ipaddress": "216.114.120.1",
+    "longitude": -90.1607,
+    "latitude": 38.3186,
+    "city": "Waterloo"
+  },
+  {
+    "ipaddress": "216.114.113.142",
+    "longitude": -90.1607,
+    "latitude": 38.3186,
+    "city": "Waterloo"
+  },
+  {
+    "ipaddress": "216.114.113.144",
+    "longitude": -90.1607,
+    "latitude": 38.3186,
+    "city": "Waterloo"
+  },
+  {
+    "ipaddress": "154.54.80.173",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.80.121",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.3.213",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.3.133",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.28.74",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.47.214",
+    "longitude": -77.0365,
+    "latitude": 38.894,
+    "city": "Washington"
+  },
+  {
+    "ipaddress": "154.54.12.106",
+    "longitude": -96.8022,
+    "latitude": 32.7797,
+    "city": "Dallas"
+  },
+  {
+    "ipaddress": "74.125.50.198",
+    "longitude": -122.0748,
+    "latitude": 37.4043,
+    "city": "Mountain View"
+  },
+  {
+    "ipaddress": "216.239.56.139",
+    "longitude": -122.0748,
+    "latitude": 37.4043,
+    "city": "Mountain View"
+  },
+  {
+    "ipaddress": "172.253.73.17",
+    "longitude": -122.0748,
+    "latitude": 37.4043,
+    "city": "Mountain View"
+  },
+  {
+    "ipaddress": "72.14.237.47",
+    "longitude": -122.0748,
+    "latitude": 37.4043,
+    "city": "Mountain View"
+  },
+  {
+    "ipaddress": "142.251.60.137",
+    "longitude": -73.839,
+    "latitude": 40.66,
+    "city": "Queens"
+  },
+  {
+    "ipaddress": "142.251.60.45",
+    "longitude": -73.839,
+    "latitude": 40.66,
+    "city": "Queens"
+  },
+  {
+    "ipaddress": "8.8.8.8",
+    "longitude": -122.083352,
+    "latitude": 37.42301,
+    "city": "Mountain View"
+  }
+]

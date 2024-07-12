@@ -1,9 +1,14 @@
 import React, { useState } from 'react';
 import ReactMapGl, { Marker } from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
-import './Map.scss';
+import './styles.scss';
 
-export default function Map({markersData}) {
+interface MapMarkersData {
+  latitude: number;
+  longitude: number;
+}
+
+export default function Map({markersData}: {markersData: MapMarkersData[]}) {
 
     // eslint-disable-next-line
     const [viewport, setViewport] = useState ({
@@ -26,9 +31,9 @@ export default function Map({markersData}) {
           {
             markersData.map((marker, index) => (
               <Marker
-              key={index}
-              latitude={marker.latitude}
-              longitude={marker.longitude}
+                key={index}
+                latitude={marker.latitude}
+                longitude={marker.longitude}
               ></Marker>
             ))
           }
